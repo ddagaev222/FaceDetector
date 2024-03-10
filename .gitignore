@@ -1,0 +1,13 @@
+# Documentation
+*.pdf
+*.doc
+*.docx
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# VSCode and build
+.vscode/
+build/
